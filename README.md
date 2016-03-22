@@ -20,4 +20,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![PHPUnit](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/phpunit-logo.jpg)
 ![AWS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/aws-logo.png)
 ![Github](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/github-logo.jpg)
-![Sentry](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sentry-logo.jpg)
+![Sentry](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sentry-logo.png)
