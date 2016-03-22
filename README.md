@@ -12,5 +12,5 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 
 ## Technology
 
-![Apache](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/apache-logo.png)
+![Apache](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/apache-logo.jpg)
 ![PHP](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/php-logo.png)
