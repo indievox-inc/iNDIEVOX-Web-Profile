@@ -16,3 +16,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![PHP](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/php-logo.png)
 ![MySQL](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/mysql-logo.png)
 ![Ubuntu](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/ubuntu-logo.png?1)
+![Composer](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/composer-logo.jpg)
