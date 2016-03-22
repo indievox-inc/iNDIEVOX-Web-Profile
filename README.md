@@ -21,3 +21,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![AWS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/aws-logo.png)
 ![Github](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/github-logo.jpg)
 ![Sentry](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sentry-logo.png)
+![Google API](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/google-api-logo.png)
