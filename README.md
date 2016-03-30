@@ -29,3 +29,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![Google Analytics](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/google-analytics-logo.png)
 ![Travis CI](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/travis-logo.png?2)
 ![Codecov](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/codecov-logo.png?1)
+![Codecov](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/codacy-logo.png)
