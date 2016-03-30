@@ -33,3 +33,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![Python](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/python-logo.png)
 ![Java](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/Java-logo.png)
 ![Node JS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/nodejs-logo.png)
+![Bootstrap](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/bootstrap-logo.png)
