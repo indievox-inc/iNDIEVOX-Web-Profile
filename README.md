@@ -38,4 +38,4 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![AngularJS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/angularjs-logo.png)
 ![HTML5](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/html5-logo.png)
 ![CSS3](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/css3-logo.png)
-![SASS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png)
+![SASS](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/sass-logo.png?1)
