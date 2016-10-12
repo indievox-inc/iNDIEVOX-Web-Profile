@@ -51,7 +51,7 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 
 ## Ticketing
 
-![Ticketing](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/ticketing.png)
+![Ticketing](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/ticketing.png?1)
 
 ---
 
