@@ -37,6 +37,42 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 
 ---
 
+## HD Audio Purchase
+
+![HD Audio Purchase](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/hd-audio.png)
+
+---
+
+## Pay What You Want Purchase
+
+![Pay What You Want Purchase](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/pwyw.png)
+
+---
+
+## Ticketing
+
+![Ticketing](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/ticketing.png)
+
+---
+
+## Music Downloader
+
+![Music Downloader](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/indievox_downloader.png)
+
+---
+
+## iNDIEVOX App
+
+![Music Downloader](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/indievox_app.png)
+
+---
+
+## Live Evil
+
+![Live Evil](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/liveevil.png)
+
+---
+
 ## Staff
 
 ![Staff 1](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/staff_1.png)
