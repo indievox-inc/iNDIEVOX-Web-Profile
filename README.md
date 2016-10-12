@@ -66,3 +66,9 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 ![Auto Color Styling 2](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/auto_color_styling_demo2.png)
 
 ---
+
+## Staff
+
+![Staff 1](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/staff_1.png)
+![Staff 2](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/staff_2.png)
+![Staff 3](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/staff_3.png)
