@@ -44,25 +44,25 @@ As of 2016, iNDIEVOX participates in music festivals around the globe to show th
 
 ## [VA Radio](https://www.indievox.com/radio/va) - Use [Music Valence-Arousal Datasets](https://github.com/indievox-inc/iNDIEVOX-Dataset)
 
-![VA Radio](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/image/va_radio_demo.png)
+![VA Radio](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/va_radio_demo.png)
 
 ---
 
 ## [Emotion Radio](https://www.indievox.com/radio/emotion/relax) - Use [Music Emotion Classification Datasets](https://github.com/indievox-inc/iNDIEVOX-Dataset)
 
-![Emotion Radio](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/image/emotion_radio_demo.png)
+![Emotion Radio](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/emotion_radio_demo.png)
 
 ---
 
 ## [Buy Together](https://www.indievox.com/disc/10586) - Use [Buy Together Datasets](https://github.com/indievox-inc/iNDIEVOX-Dataset)
 
-![Buy Together](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/image/buy_together_demo.png)
+![Buy Together](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/buy_together_demo.png)
 
 ---
 
 ## [Auto Color Styling Header](https://www.indievox.com)
 
-![Auto Color Styling 1](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/image/auto_color_styling_demo1.png)
-![Auto Color Styling 2](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Dataset/master/image/auto_color_styling_demo2.png)
+![Auto Color Styling 1](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/auto_color_styling_demo1.png)
+![Auto Color Styling 2](https://raw.githubusercontent.com/indievox-inc/iNDIEVOX-Web-Profile/master/image/auto_color_styling_demo2.png)
 
 ---
